@@ -1,0 +1,2 @@
+# Quick_Aid
+An accident detection and recovery embedded system along with a mobile application and Cloud application for automobiles using Bluetooth, GSM, collision detection sensor and gyroscope. This system detects accidents based on the framed algorithm and communicates an emergency message and location of the accident to a nearby hospital and recover number by activating the mobile application.
